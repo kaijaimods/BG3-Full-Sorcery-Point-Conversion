@@ -1,0 +1,13 @@
+new entry "SORCERYPOINT_6"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SORCERYPOINT_1"
+data "DescriptionParams" "6"
+data "Boosts" "ActionResource(SorceryPoint,6,0)"
+
+new entry "SORCERYPOINT_7"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SORCERYPOINT_1"
+data "DescriptionParams" "7"
+data "Boosts" "ActionResource(SorceryPoint,7,0)"
